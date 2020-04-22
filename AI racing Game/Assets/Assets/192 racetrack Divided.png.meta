@@ -1,0 +1,1441 @@
+fileFormatVersion: 2
+guid: adc7872fe92750b40ba09af65bb1af4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8367258173442612201
+    second: 192 racetrack Divided_0
+  - first:
+      213: 6506906645871805052
+    second: 192 racetrack Divided_1
+  - first:
+      213: -2288415281939274698
+    second: 192 racetrack Divided_2
+  - first:
+      213: 3001105770212993003
+    second: 192 racetrack Divided_3
+  - first:
+      213: 1364137051629594087
+    second: 192 racetrack Divided_4
+  - first:
+      213: -7682215577858931553
+    second: 192 racetrack Divided_5
+  - first:
+      213: 3925671300277304642
+    second: 192 racetrack Divided_6
+  - first:
+      213: 2969550397476466361
+    second: 192 racetrack Divided_7
+  - first:
+      213: 1426730187734957516
+    second: 192 racetrack Divided_8
+  - first:
+      213: -2837985967899930559
+    second: 192 racetrack Divided_9
+  - first:
+      213: 212257844919278464
+    second: 192 racetrack Divided_10
+  - first:
+      213: -4636436837174025464
+    second: 192 racetrack Divided_11
+  - first:
+      213: 3463988481403736156
+    second: 192 racetrack Divided_12
+  - first:
+      213: -2614054125600104736
+    second: 192 racetrack Divided_13
+  - first:
+      213: 8638580684829896041
+    second: 192 racetrack Divided_14
+  - first:
+      213: -3434599316779154341
+    second: 192 racetrack Divided_15
+  - first:
+      213: 6698470747743084329
+    second: 192 racetrack Divided_16
+  - first:
+      213: 8778424013840556955
+    second: 192 racetrack Divided_17
+  - first:
+      213: 5581925111928473812
+    second: 192 racetrack Divided_18
+  - first:
+      213: -7081969308987158294
+    second: 192 racetrack Divided_19
+  - first:
+      213: -8600619496614110986
+    second: 192 racetrack Divided_20
+  - first:
+      213: 8909950698766032601
+    second: 192 racetrack Divided_21
+  - first:
+      213: 1210362620499522761
+    second: 192 racetrack Divided_22
+  - first:
+      213: 473225455812694207
+    second: 192 racetrack Divided_23
+  - first:
+      213: 7116035058969673656
+    second: 192 racetrack Divided_24
+  - first:
+      213: 4959020411101456068
+    second: 192 racetrack Divided_25
+  - first:
+      213: -5618674844408225436
+    second: 192 racetrack Divided_26
+  - first:
+      213: 1753029476669899818
+    second: 192 racetrack Divided_27
+  - first:
+      213: 762298607798593546
+    second: 192 racetrack Divided_28
+  - first:
+      213: -7779720858709282927
+    second: 192 racetrack Divided_29
+  - first:
+      213: 2013235105769633551
+    second: 192 racetrack Divided_30
+  - first:
+      213: -5744471686561339488
+    second: 192 racetrack Divided_31
+  - first:
+      213: 5473634492991011340
+    second: 192 racetrack Divided_32
+  - first:
+      213: -6529714241434446646
+    second: 192 racetrack Divided_33
+  - first:
+      213: 2270062104851259121
+    second: 192 racetrack Divided_34
+  - first:
+      213: -729753267043318845
+    second: 192 racetrack Divided_35
+  - first:
+      213: 2443957383327571351
+    second: 192 racetrack Divided_36
+  - first:
+      213: 1781692885843885516
+    second: 192 racetrack Divided_37
+  - first:
+      213: -330734304947339576
+    second: 192 racetrack Divided_38
+  - first:
+      213: 7052077877166206539
+    second: 192 racetrack Divided_39
+  - first:
+      213: -3575194885979327315
+    second: 192 racetrack Divided_40
+  - first:
+      213: 8719802484741213987
+    second: 192 racetrack Divided_41
+  - first:
+      213: 1617434414896345300
+    second: 192 racetrack Divided_42
+  - first:
+      213: 452762061401292615
+    second: 192 racetrack Divided_43
+  - first:
+      213: -8413346685432675221
+    second: 192 racetrack Divided_44
+  - first:
+      213: 8167106731690121342
+    second: 192 racetrack Divided_45
+  - first:
+      213: -3794604689453608830
+    second: 192 racetrack Divided_46
+  - first:
+      213: 952733693928107204
+    second: 192 racetrack Divided_47
+  - first:
+      213: -719681018572651393
+    second: 192 racetrack Divided_48
+  - first:
+      213: 5987872224114828317
+    second: 192 racetrack Divided_49
+  - first:
+      213: 6628741310487846719
+    second: 192 racetrack Divided_50
+  - first:
+      213: 2032497428339391185
+    second: 192 racetrack Divided_51
+  - first:
+      213: -6132466700471369890
+    second: 192 racetrack Divided_52
+  - first:
+      213: -5505681584319086182
+    second: 192 racetrack Divided_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 192 racetrack Divided_0
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1787
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1884d6a9a22a8245a1e3cba562c0b20
+      internalID: -8367258173442612201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_1
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1787
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed244f4d8fdbcd4db416eda1cdb7f69
+      internalID: 6506906645871805052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_2
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1955
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9429c59e79d85064b90a36c2524c1013
+      internalID: -2288415281939274698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_3
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1876
+        width: 194
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f19b93fe8c7b64781414fb20e141b8
+      internalID: 3001105770212993003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_4
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1835
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c79a70fb43614ea9cc7dd3e207de8
+      internalID: 1364137051629594087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_5
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1835
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c754001458d314f840e1ceb21f2a44
+      internalID: -7682215577858931553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_6
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1865
+        width: 118
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135d1514c2aa8a41972d6bc70ff2eab
+      internalID: 3925671300277304642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418ee29c30970640a2c73662e08914c
+      internalID: 2969550397476466361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8de1490bd6cad9428c652b65110ed60
+      internalID: 1426730187734957516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2248f5e9e5ea49842668a82ace702
+      internalID: -2837985967899930559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd1bc1d08d168840a8229f23aa0d578
+      internalID: 212257844919278464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab3580a278d534c98e84666b6e1246
+      internalID: -4636436837174025464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_12
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1631
+        width: 112
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d2092ea7b21046875d3570c09ec1d
+      internalID: 3463988481403736156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_13
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1631
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb8798e536ff634a84580cdae2d92d9
+      internalID: -2614054125600104736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_14
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1631
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f012d9230b8ac604ebe3d179a62954c3
+      internalID: 8638580684829896041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc687d88d05aa0045887b4031790472a
+      internalID: -3434599316779154341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627b29e28c1545847bcf7c5ca90fbe2c
+      internalID: 6698470747743084329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7936e0b634344595cbab3d9a50ce8
+      internalID: 8778424013840556955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_18
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cafaff548ec9746a5530cec264badf
+      internalID: 5581925111928473812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f9c99d9adb7243a8ad12c4c9bb5d1
+      internalID: -7081969308987158294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1223
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d9441053f94c4fbc27bc1c53c45dc
+      internalID: -8600619496614110986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_21
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1223
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cdcfbd1349ecb4fa675d29c3f649cb
+      internalID: 8909950698766032601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1150
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788ca2d4c2b95044a9318648a9cf55c0
+      internalID: 1210362620499522761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1150
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca107bf0d0474b84c8aa6fcef000f31b
+      internalID: 473225455812694207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1150
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d8d7368e30d2488d55f63b49d63dd
+      internalID: 7116035058969673656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_25
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1150
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9ff6032112def4faa0fc9ca9bb7a9c
+      internalID: 4959020411101456068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_26
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1150
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f4e264b4548a4bb8ed86e9c9e8848
+      internalID: -5618674844408225436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_27
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 995
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e440046acab0054bac9a09858a1d596
+      internalID: 1753029476669899818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_28
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 971
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4487c074820741bba19781aa68f05
+      internalID: 762298607798593546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 947
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6db86c33e7fd9443a9d3b2a99394632
+      internalID: -7779720858709282927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 947
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6319bcf36f23d5e42b9bb545547fe640
+      internalID: 2013235105769633551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 947
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b306153d496088f4ead5f04422522ac0
+      internalID: -5744471686561339488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_32
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 947
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b7bab24d087d4c9169f92f00eb809
+      internalID: 5473634492991011340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_33
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 947
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503645c29d80ea54fb0bb9bc8ab63d4d
+      internalID: -6529714241434446646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_34
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 757
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76da31169feb424aa026a4c0dca6f83
+      internalID: 2270062104851259121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_35
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 755
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f3fe6935eb1ec48af3e10b58a66101
+      internalID: -729753267043318845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 599
+        width: 314
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22421c6199475ed48b6e3e2388d1f8af
+      internalID: 2443957383327571351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 599
+        width: 314
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589fe7cf8b2f9644a82096d2e0a3642
+      internalID: 1781692885843885516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_38
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 599
+        width: 194
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab591e964535c37429cf5a30b112c9a8
+      internalID: -330734304947339576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_39
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 719
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551827a77a96ed45b7a4217a9fe95a6
+      internalID: 7052077877166206539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_40
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 719
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7250bd59e4311e74b9eb6e1a7a80763d
+      internalID: -3575194885979327315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_41
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 527
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb5598eb2c2a74282798754fb8785e
+      internalID: 8719802484741213987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_42
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 503
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a71fb31c8702b4cb15ea2a4e02e02d
+      internalID: 1617434414896345300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 275
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a000a347d9c5f24187f1e68c9eeeab4
+      internalID: 452762061401292615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 275
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb93ad5b66e6a240b728cfd26c2ad74
+      internalID: -8413346685432675221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_45
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 491
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edcf609c73bb3d408d875eeae94d614
+      internalID: 8167106731690121342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_46
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 491
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c32b2b781688cd488bc4ffe975ff01f
+      internalID: -3794604689453608830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_47
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 299
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef691f1069799418e68a31a2c3b010
+      internalID: 952733693928107204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_48
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 299
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a3f99de3c993429a4b890ffacd585
+      internalID: -719681018572651393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_49
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 287
+        width: 290
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fb5fb6e343e3243bbc213b0360bad4
+      internalID: 5987872224114828317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_50
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 47
+        width: 206
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b48d53094a086a4198625617d3d0414
+      internalID: 6628741310487846719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_51
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 47
+        width: 206
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dce62a5e09d704799fde1ec5d3b2e8
+      internalID: 2032497428339391185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 410
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddeda4b3cbd8314e8250ef73c0f6eb0
+      internalID: -6132466700471369890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 192 racetrack Divided_53
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 47
+        width: 410
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05033e5b128ea784ab90b2b26b27ddf3
+      internalID: -5505681584319086182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 91b69f3291b90034bbba205cf43f9fc8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
